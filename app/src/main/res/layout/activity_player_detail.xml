@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".playerDetail">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp">
+
+            <ImageView
+                android:id="@+id/player_photo"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                tools:src="@tools:sample/avatars"
+                android:layout_centerVertical="true"/>
+            <TextView
+                android:id="@+id/id_biodata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/biodata"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_toEndOf="@id/player_photo"
+                android:layout_marginStart="8dp"/>
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_toEndOf="@id/player_photo"
+                android:layout_below="@id/id_biodata"
+                android:layout_marginStart="8dp">
+
+                <TableRow
+                    style="@style/TextContent"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:text="@string/name_detail"
+                        android:textStyle="bold"
+                        android:layout_marginEnd="16dp"/>
+                    <TextView
+                        android:id="@+id/nama_pemain"
+                        android:layout_weight="1"
+                        android:text="@string/player_name"/>
+                </TableRow>
+                <TableRow
+                    style="@style/TextContent"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:text="@string/kelahiran"
+                        android:textStyle="bold"
+                        android:layout_marginEnd="16dp"/>
+                    <TextView
+                        android:id="@+id/kelahiran_pemain"
+                        android:layout_weight="1"
+                        android:text="@string/kelahiran_pemain"/>
+                </TableRow>
+                <TableRow
+                    style="@style/TextContent"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:text="@string/nomor_punggung"
+                        android:textStyle="bold"
+                        android:layout_marginEnd="16dp"/>
+                    <TextView
+                        android:id="@+id/no_punggung"
+                        android:text="@string/nomor_punggung_pemain"/>
+                </TableRow>
+                <TableRow
+                    style="@style/TextContent"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:text="@string/tinggi"
+                        android:textStyle="bold"
+                        android:layout_marginEnd="16dp"/>
+                    <TextView
+                        android:id="@+id/tinggi_pemain"
+                        android:text="@string/tinggi_pemain"/>
+                </TableRow>
+                <TableRow
+                    style="@style/TextContent"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:text="@string/tim"
+                        android:textStyle="bold"
+                        android:layout_marginEnd="16dp"/>
+                    <TextView
+                        android:id="@+id/tim_saat_ini"
+                        android:text="@string/tim_saat_ini"/>
+                </TableRow>
+                <TableRow
+                    style="@style/TextContent"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:text="@string/status"
+                        android:textStyle="bold"
+                        android:layout_marginEnd="16dp"/>
+                    <TextView
+                        android:id="@+id/status_pemain"
+                        android:text="@string/status_pemain"/>
+                </TableRow>
+            </TableLayout>
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="@string/description"/>
+        <TextView
+            android:id="@+id/deskrisi_pemain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:justificationMode="inter_word"
+            android:text="@string/deskripsi_pemain"/>
+    </LinearLayout>
+</ScrollView>

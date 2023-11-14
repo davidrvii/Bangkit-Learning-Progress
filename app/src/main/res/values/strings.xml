@@ -1,0 +1,166 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyFavNBA</string>
+
+    <string name="player_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="about_name">David Revivaldy</string>
+    <string name="about_email">davidrsitorus04@gmail.com</string>
+    <string name="about_linkedin">linkedin.com/in/davidrevivaldy</string>
+    <string name="tentang">Tentang</string>
+    <string name="nba_name">Nama</string>
+    <string name="name_detail">Nama</string>
+    <string name="biodata">Biodata</string>
+    <string name="kelahiran">Kelahiran</string>
+    <string name="kelahiran_pemain">Kelahiran Pemain</string>
+    <string name="nomor_punggung">No. Punggung</string>
+    <string name="status">Status</string>
+    <string name="status_pemain">Status Pemain</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="tinggi_pemain">Tinggi Pemain</string>
+    <string name="nomor_punggung_pemain">Nomor Punggung Pemain</string>
+    <string name="deskripsi_pemain">Deskripsi Pemain</string>
+    <string name="tim_saat_ini">Tim Saat Ini</string>
+    <string name="tim">Tim</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+
+    <string-array name="data_name">
+        <item>Kobe Bryant</item>
+        <item>Michael Jordan</item>
+        <item>Lebron James</item>
+        <item>Stephen Curry</item>
+        <item>Kevin Durant</item>
+        <item>Kyrie Irving</item>
+        <item>Giannis Antetokounmpo</item>
+        <item>Luka Doncic</item>
+        <item>Devin Booker</item>
+        <item>Ja Morant</item>
+    </string-array>
+
+    <string-array name="data_team">
+        <item>Los Angeles Lakers</item>
+        <item>Chicago Bulls</item>
+        <item>Los Angeles Lakers</item>
+        <item>Golden State Warriors</item>
+        <item>Phoenix Suns</item>
+        <item>Dallas Mavericks</item>
+        <item>Milwaukee Bucks</item>
+        <item>Dallas Mavericks</item>
+        <item>Phoenix Suns</item>
+        <item>Memphis Grizzlies</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kobe_bryant</item>
+        <item>@drawable/michael_jordan</item>
+        <item>@drawable/lebron_james</item>
+        <item>@drawable/stephen_curry</item>
+        <item>@drawable/kevin_durant</item>
+        <item>@drawable/kyrie_irving</item>
+        <item>@drawable/giannis</item>
+        <item>@drawable/luka_doncic</item>
+        <item>@drawable/devin_booker</item>
+        <item>@drawable/ja_morant</item>
+    </integer-array>
+
+    <string-array name="Kelahiran">
+        <item>23 Agustus 1978, Philadelphia, Pennsylvania, Amerika</item>
+        <item>17 Februari 1963, Cumberland Hospital</item>
+        <item>30 Desember 1984, Akron, Ohio, Amerika</item>
+        <item>14 Maret 1988, Akron, Ohio, Amerika</item>
+        <item>29 September 1988, Washington, D.C., Amerika</item>
+        <item>23 Maret 1992, Melbourne, Australia</item>
+        <item>6 Desember 1994, Athena, Yunani</item>
+        <item>28 Februari 1999, Ljubljana, Slovenia</item>
+        <item>30 Oktober 1996, Grand Rapids, Michigan, Amerika</item>
+        <item>10 Agustus 1999, Dalzell, Carolina Selatan, Amerika</item>
+    </string-array>
+
+    <string-array name="no_punggung">
+        <item>24</item>
+        <item>23</item>
+        <item>6</item>
+        <item>30</item>
+        <item>35</item>
+        <item>11</item>
+        <item>34</item>
+        <item>77</item>
+        <item>1</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="tinggi">
+        <item>1,98 m</item>
+        <item>1,98 m</item>
+        <item>2,06 m</item>
+        <item>1,88 m</item>
+        <item>2,08 m</item>
+        <item>1,88 m</item>
+        <item>2,11 m</item>
+        <item>2,01 m</item>
+        <item>1,96 m</item>
+        <item>1,88 m</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Pensiun</item>
+        <item>Pensiun</item>
+        <item>Pemain Aktif</item>
+        <item>Pemain Aktif</item>
+        <item>Pemain Aktif</item>
+        <item>Pemain Aktif</item>
+        <item>Pemain Aktif</item>
+        <item>Pemain Aktif</item>
+        <item>Pemain Aktif</item>
+        <item>Pemain Aktif</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Kobe Bean Bryant (/ˈkoʊbiː/ koh-bee; 23 Agustus 1978 - 26 Januari 2020) adalah seorang pemain basket profesional Amerika Serikat. Bermain pada posisi shooting guard, Bryant menghabiskan seluruh 20 tahun karirnya dengan Los Angeles Lakers di National Basketball Association (NBA). Sering dianggap sebagai salah satu pemain basket terbaik sepanjang masa,
+            Bryant telah memenangkan lima gelar juara NBA, 18 kali All-Star, 15 kali All-NBA Team, 12 kali All-Defensive Team, NBA Most Valuable Player (MVP) tahun 2008, dan dua kali NBA Finals MVP. ia mencetak skor terbanyak di NBA selama dua musim, menduduki peringkat keempat pada daftar pencetak skor musim reguler terbanyak sepanjang masa dan keempat pada daftar pencetak skor playoff terbanyak sepanjang masa.\n\n
+            Lahir di Philadelphia dan sebagian besar di Italia, ia dianggap sebagai pemain basket SMA terbaik di AS ketika dirinya masih bersekolah di Lower Merion High School di Pennsylvania. Putra mantan pemain NBA, Joe Bryant, ia mengikuti NBA Draft 1996 dan dipilih oleh Charlotte Hornets pada urutan ke-13. Hornets kemudian melakukan trade dan Kobe pindah ke Lakers. Sebagai rookie, Bryant mendapatkan reputasi sebagai high-flyer setelah memenangkan Slam Dunk Contest tahun 1997, dan dinobatkan sebagai All-Star pada musim keduanya. Meskipun adanya perselisihan dengan rekannya Shaquille O\'Neal, mereka membawa Lakers merengkuh tiga gelar juara NBA beruntun sejak tahun 2000 hingga 2002. Pada tahun 2003, Bryant dituduh melakukan pelecehan seksual, sebelum tuntutan pidana dibatalkan setelah sang penuduh menolak untuk bersaksi. Gugatan perdata kemudian diselesaikan di luar pengadilan. Bryant membantah tuduhan pelecehan tetapi mengaku mengalami keintiman seksual dan kemudian mengeluarkan permintaan maaf secara publik.\n\n
+            Setelah Lakers kalah pada pertandingan Final NBA 2004, O\'Neal di-trade ke Miami Heat dan Bryant menjadi pemain kunci bagi Lakers. Ia mencetak skor terbanyak di NBA selama musim 2005–2006 dan 2006–2007. Pada tahun 2006, ia mencetak 81 poin yang merupakan capaian tertinggi sepanjang kariernya—poin terbanyak kedua yang dicetak dalam satu game dalam sejarah NBA, tepat di belakang Wilt Chamberlain yang mencetak 100 poin pada tahun 1962. Bryant membawa Lakers merebut dua gelar juara beruntun pada tahun 2009 dan 2010, dan mendapatkan penghargaan NBA Finals MVP pada dua kali final tersebut. Ia terus menjadi salah satu pemain top di liga hingga tahun 2013, ketika ia menderita robek tendon Achilles pada usia 34 tahun. Meskipun dirinya pulih dari cedera itu, ia menderita cedera akhir musim pada bagian lutut dan bahunya dalam dua musim berikutnya. Mengakui bahwa kondisi fisiknya mulai menurun, Bryant pensiun setelah musim 2015–2016.\n\n
+            Ia menjadi pencetak skor terbanyak sepanjang masa dalam sejarah Lakers. Bryant adalah guard pertama dalam sejarah NBA yang bermain selama setidaknya 20 musim. Penampilannya sebagai All-Star sebanyak 18 kali merupakan yang terbanyak kedua sepanjang masa, dan juga merupakan rekor penampilan secara beruntun terbanyak sebagai starter. Raihan empat NBA All-Star Game MVP menyamai Bob Pettit sebagai terbanyak dalam sejarah NBA. Ia memberi dirinya julukan "Black Mamba" pada pertengahan tahun 2000-an, dan julukan tersebut diadopsi secara luas oleh masyarakat umum. Pada Olimpiade Musim Panas 2008 dan 2012, ia memenangkan medali emas sebagai anggota tim nasional AS. Pada tahun 2018, Bryant memenangkan Academy Award untuk Film Pendek Animasi Terbaik untuk filmnya yang berjudul Dear Basketball.\n\n
+            Bryant meninggal, bersama putrinya Gianna dan tujuh lainnya, dalam kecelakaan helikopter di Calabasas, California. Sejumlah tribut dan memorial kemudian diberikan, termasuk mengganti Penghargaan All-Star MVP untuk menghormatinya.</item>
+
+        <item>Michael Jeffrey Jordan (lahir 17 Februari 1963), juga dikenal dengan inisialnya MJ, adalah mantan pemain bola basket profesional dan pengusaha Amerika. Secara luas dianggap sebagai pemain bola basket terhebat sepanjang masa, situs resmi National Basketball Association (NBA) menyatakan bahwa "secara aklamasi, Michael Jordan adalah pemain bola basket terhebat sepanjang masa." Ia bermain selama lima belas musim di NBA, memenangkan enam musim. Kejuaraan NBA dengan Chicago Bulls. Ia berperan penting dalam mempopulerkan olahraga bola basket dan NBA di seluruh dunia pada tahun 1980an dan 1990an, menjadi ikon budaya global.\n\n
+            Jordan bermain bola basket perguruan tinggi selama tiga musim di bawah pelatih Dean Smith dengan North Carolina Tar Heels. Sebagai mahasiswa baru, dia adalah anggota tim kejuaraan nasional Tar Heels pada tahun 1982. Jordan bergabung dengan Bulls pada tahun 1984 sebagai draft pick ketiga secara keseluruhan dan dengan cepat muncul sebagai bintang liga, menghibur penonton dengan skor produktifnya sambil mendapatkan reputasi sebagai salah satu pemain bertahan terbaik dalam permainan. Kemampuan melompatnya, ditunjukkan dengan melakukan slam dunk dari garis lemparan bebas di Kontes Slam Dunk, membuatnya mendapat julukan "Air Jordan" dan "His Airness". Jordan memenangkan gelar NBA pertamanya bersama Bulls pada tahun 1991 dan mengikuti pencapaian itu dengan gelar pada tahun 1992 dan 1993, mengamankan tiga gambut. Jordan tiba-tiba pensiun dari bola basket sebelum musim NBA 1993-94 untuk bermain Minor League Baseball tetapi kembali ke Bulls pada Maret 1995 dan membawa mereka meraih tiga kejuaraan lagi pada tahun 1996, 1997, dan 1998, serta rekor 72 musim reguler. menang di musim NBA 1995-96. Dia pensiun untuk kedua kalinya pada Januari 1999 tetapi kembali untuk dua musim NBA lagi dari tahun 2001 hingga 2003 sebagai anggota Washington Wizards. Selama karir profesionalnya, ia juga terpilih bermain untuk tim nasional Amerika Serikat, memenangkan empat medali emas—di Pan American Games 1983, Olimpiade Musim Panas 1984, Turnamen Amerika 1992, dan Olimpiade Musim Panas 1992—sementara juga menjadi tak terkalahkan.\n\n
+            Penghargaan dan pencapaian individu Jordan mencakup enam penghargaan Pemain Paling Berharga (MVP) Final NBA, sepuluh gelar pencetak gol NBA (keduanya merupakan rekor sepanjang masa), lima penghargaan MVP NBA, sepuluh penghargaan Tim Utama All-NBA, sembilan penghargaan Tim Utama All-Defensive, empat belas pilihan NBA All-Star Game, tiga penghargaan NBA All-Star Game MVP, tiga gelar mencuri NBA, dan Penghargaan Pemain Bertahan NBA Tahun 1988. Dia memegang rekor NBA untuk rata-rata skor karir musim reguler (30,1 poin per game) dan rata-rata skor karir playoff (33,4 poin per game). Pada tahun 1999, ia dinobatkan sebagai atlet Amerika Utara terhebat abad ke-20 oleh ESPN dan berada di urutan kedua setelah Babe Ruth dalam daftar atlet abad ini oleh Associated Press. Jordan dua kali dilantik ke dalam Naismith Memorial Basketball Hall of Fame, sekali pada tahun 2009 untuk karir individunya, dan sekali lagi pada tahun 2010 sebagai bagian dari tim bola basket Olimpiade putra Amerika Serikat tahun 1992 ("The Dream Team"). Ia menjadi anggota Hall of Fame Olimpiade Amerika Serikat pada tahun 2009, anggota Hall of Fame Olahraga Carolina Utara pada tahun 2010, dan anggota individu Hall of Fame FIBA pada tahun 2015 dan "Dream Anggota tim" pada tahun 2017. Pada tahun 2021, ia masuk dalam Tim Peringatan 75 Tahun NBA.\n\n
+            Salah satu atlet yang paling efektif dipasarkan di generasinya, Jordan dikenal karena dukungan produknya. Dia memicu kesuksesan sepatu kets Air Jordan Nike, yang diperkenalkan pada tahun 1984 dan tetap populer hingga saat ini. Dia berperan sebagai dirinya sendiri dalam film hybrid live-action/animasi Space Jam (1996) dan menjadi fokus utama serial dokumenter pemenang Emmy The Last Dance (2020). Dia menjadi pemilik sebagian dan kepala operasi bola basket untuk Charlotte Hornets (saat itu bernama Bobcats) pada tahun 2006 dan membeli saham pengendali pada tahun 2010, sebelum menjual saham mayoritasnya pada tahun 2023, dan dia juga pemilik 23XI Racing di NASCAR Seri Piala. Pada tahun 2016, ia menjadi pemain miliarder pertama dalam sejarah NBA. Tahun itu, Presiden Barack Obama menganugerahinya Presidential Medal of Freedom. Pada tahun 2023, kekayaan bersihnya diperkirakan mencapai $2 miliar.</item>
+
+        <item>LeBron Raymone James Sr. (/ləˈbrɒn/ lə-BRON; lahir 30 Desember 1984), juga dikenal sebagai Bron, adalah pemain bola basket profesional Amerika untuk Los Angeles Lakers dari National Basketball Association (NBA). Dijuluki "King James", ia secara luas dianggap sebagai salah satu pemain terhebat dalam sejarah olahraga dan sering dibandingkan dengan Michael Jordan dalam perdebatan mengenai pemain bola basket terhebat sepanjang masa. James adalah pemain terkemuka sepanjang masa. pencetak gol terbanyak dalam sejarah NBA dan menempati peringkat keempat dalam assist karir. Dia telah memenangkan empat kejuaraan NBA (dua dengan Miami Heat, masing-masing satu dengan Lakers dan Cleveland Cavaliers), dan telah berkompetisi di 10 Final NBA, termasuk delapan penampilan Final berturut-turut dari 2011 hingga 2018. Dia juga telah memenangkan empat Penghargaan Pemain Paling Berharga (MVP), empat Penghargaan MVP Final, dan dua medali emas Olimpiade, dan dinobatkan sebagai All-Star sebanyak 19 kali, terpilih ke dalam Tim All-NBA sebanyak 19 kali (termasuk 13 pilihan Tim Utama ) dan Tim All-Defensive sebanyak enam kali, dan menjadi runner-up untuk Penghargaan Pemain Bertahan NBA Tahun Ini sebanyak dua kali dalam kariernya.\n\n
+            James tumbuh dengan bermain bola basket untuk St. Vincent–St. Sekolah Menengah Mary di kampung halamannya di Akron, Ohio. Dia banyak disebut-sebut oleh media nasional sebagai superstar NBA masa depan karena kemampuannya dalam mencetak gol, passing, atletis, dan kemampuan playmaking. Sebagai persiapan hingga profesional, ia dipilih oleh Cleveland Cavaliers dengan pemilihan keseluruhan pertama pada draft NBA 2003. Dinobatkan sebagai Rookie Terbaik NBA 2004, ia segera memantapkan dirinya sebagai salah satu pemain utama liga, memimpin Cavaliers ke penampilan Final NBA pertama mereka pada tahun 2007 dan memenangkan penghargaan MVP NBA pada tahun 2009 dan 2010. Setelah gagal memenangkan kejuaraan bersama Cleveland, James keluar pada tahun 2010 sebagai agen bebas untuk bergabung dengan Miami Heat; hal ini diumumkan dalam acara khusus yang disiarkan secara nasional berjudul The Decision dan merupakan salah satu pergerakan agen bebas paling kontroversial dalam sejarah olahraga.\n\n
+            James memenangkan dua kejuaraan NBA pertamanya saat bermain untuk Heat pada tahun 2012 dan 2013; di kedua tahun ini, dia juga mendapatkan penghargaan MVP liga dan MVP Final. Setelah musim keempatnya bersama Heat pada tahun 2014, James memilih keluar dari kontraknya dan kembali menandatangani kontrak dengan Cavaliers. Pada tahun 2016, ia memimpin Cavaliers meraih kemenangan atas Golden State Warriors di Final dengan bangkit dari defisit 3-1, memberikan kejuaraan pertama bagi tim dan mengakhiri kutukan olahraga Cleveland. Pada tahun 2018, James menggunakan opsi kontraknya untuk meninggalkan Cavaliers dan menandatangani kontrak dengan Lakers, di mana ia memenangkan kejuaraan NBA 2020 dan MVP Final keempatnya. James adalah pemain pertama dalam sejarah NBA yang mengumpulkan $1 miliar pendapatan sebagai pemain aktif. Pada 7 Februari 2023, James melampaui Kareem Abdul-Jabbar untuk menjadi pencetak gol terbanyak dalam sejarah liga.\n\n
+            Di luar lapangan, James telah mengumpulkan lebih banyak kekayaan dan ketenaran dari berbagai kontrak dukungan. Dia telah tampil dalam buku, film dokumenter (termasuk memenangkan tiga Sports Emmy Awards sebagai produser eksekutif), dan iklan televisi. Dia telah memenangkan 20 ESPY Awards, menjadi pembawa acara Saturday Night Live, dan membintangi film olahraga Space Jam: A New Legacy (2021). James telah menjadi pemilik sebagian Liverpool F.C. sejak 2011 dan memimpin LeBron James Family Foundation, yang telah membuka sekolah dasar, kompleks perumahan, plaza ritel, dan pusat kesehatan di Akron.</item>
+
+        <item>Wardell Stephen Curry II atau lebih dikenal sebagai Stephen Curry (lahir 14 Maret 1988) adalah pebasket profesional yang bermain sebagai point guard di kompetisi NBA (National Basketball Association). Stephen Curry mempunyai tinggi badan 191 cm. Ia memiliki catatan balls di atas rata-rata. Namanya dicatat dalam buku rekor NBA sebagai salah satu pelempar 3 angka terbaik dalam sejarah bola basket. Pada musim 2014-2015, Ia memenangi NBA Most Valuable Player dan memimpin Golden State Warrior menjuarai NBA pertamanya sejak tahun 1975. Di musim NBA 2016-2017 Steph Curry membawa Golden State Warriors ke final NBA untuk ketiga kalinya secara beruntun dimana dia memenangi kompetisi NBA untuk kedua kalinya.\n\n
+            "Is he among the top 5 best NBA players of all time?"\n\n
+            Curry adalah putra dari salah satu mantan pemain NBA yaitu Dell Curry, dan kakak dari pemain NBA saat ini, Seth Curry. Dia bermain basket untuk Davidson. Di sana, ia dua kali mendapatkan penghargaan Southern Conference Player of the Year dan mencatatkan rekor skor terbanyak sepanjang masa untuk Davidson dan Konferensi Selatan. Pada tahun kedua, ia kembali mencatat rekor NCAA atas pencapaian tiga angka yang dibuat.\n\n
+            Selama musim 2012–13, Curry berhasil memasukkan 272 tembakan 3 angka dan menjadi rekor di NBA pada saat itu. Lima tahun kemudian, ia memperbaharui rekor tersebut sebanyak 286 tembakan, dan lagi pada tahun 2016 dengan 402 tembakan 3 angka. Selama musim 2013-14, ia dan rekan setimnya, Klay Thompson, dijuluki sebagai Splash Brothers atas performa mereka yang sangat ahli dalam mencetak 3 angka yang kemudian mencetak rekor NBA untuk kombinasi tembakan 3 angka dalam satu musim dengan 484 yang kemudian terpecahkan lagi dua musim berturut-turut setelahnya dengan jumlah (525) 2014-2015 dan di musim 2015-16 (678). Pada 15 Desember 2021, Curry menjadi pencetak 3 angka terbanyak dalam sejarah NBA dengan membukukan 2978 tembakan 3 angka selama berkarir di NBA.</item>
+
+        <item>Kevin Wayne Durant (/dəˈrænt/ də-RANT; lahir 29 September 1988), juga dikenal dengan inisialnya KD, adalah pemain bola basket profesional Amerika untuk Phoenix Suns dari National Basketball Association (NBA). Dia bermain satu musim bola basket perguruan tinggi untuk Texas Longhorns dan terpilih sebagai pilihan keseluruhan kedua oleh Seattle SuperSonics di draft NBA 2007. Dia bermain sembilan musim dengan franchise tersebut, yang menjadi Oklahoma City Thunder pada tahun 2008, sebelum menandatangani kontrak dengan Golden State Warriors pada tahun 2016, memenangkan kejuaraan NBA berturut-turut dan Penghargaan MVP Final NBA pada tahun 2017 dan 2018. Setelah mengalami cedera Achilles di final 2019 , dia bergabung dengan Brooklyn Nets sebagai agen bebas musim panas itu. Menyusul perselisihan dengan kantor depan Nets, ia meminta perdagangan selama offseason 2022 dan diperdagangkan ke Suns pada tahun 2023. Ia dianggap sebagai salah satu pemain terhebat dalam sejarah NBA. ] \n\n
+            Durant adalah calon pemain SMA yang banyak direkrut dan secara luas dianggap sebagai pemain terbaik kedua di kelasnya. Di perguruan tinggi, ia memenangkan banyak penghargaan akhir tahun dan menjadi mahasiswa baru pertama yang dinobatkan sebagai Naismith College Player of the Year. Sebagai seorang profesional, ia telah memenangkan dua kejuaraan NBA, sebuah NBA Most Valuable Player Award, dua Finals MVP Awards, dua NBA All-Star Game Most Valuable Player Awards, empat gelar pencetak gol NBA, dan NBA Rookie of the Year Award. sepuluh tim All-NBA (termasuk enam Tim Utama), dan terpilih 13 kali sebagai NBA All-Star. Pada tahun 2021, Durant masuk dalam Tim HUT ke-75 NBA. Sebagai anggota tim nasional putra AS, Durant telah memenangkan tiga medali emas di Olimpiade (2012, 2016, dan 2020) dan merupakan pencetak gol terbanyak dalam sejarah bola basket Olimpiade putra Tim AS. Ia juga memenangkan emas di Kejuaraan Dunia FIBA 2010.\n\n
+            Di luar lapangan, Durant adalah salah satu pemain bola basket dengan penghasilan tertinggi di dunia, sebagian karena kesepakatan dukungan dengan perusahaan seperti Foot Locker dan Nike. Dia telah mengembangkan reputasi filantropi dan secara teratur memimpin liga dalam perolehan suara All-Star dan penjualan jersey. Dalam beberapa tahun terakhir, dia berkontribusi pada The Players\' Tribune sebagai fotografer dan penulis. Pada tahun 2012, ia terjun ke dunia akting dengan tampil di film Thunderstruck.</item>
+
+        <item>Kyrie Andrew Irving (/ˈkaɪri/; lahir tanggal 23 Maret 1992) adalah seorang pemain basket profesional Amerika Serikat yang bermain untuk Dallas Mavericks di National Basketball Association (NBA). Ia mendapatkan penghargaan NBA Rookie of the Year setelah direkrut Cleveland Cavaliers sebagai pemain pilihan pertama secara keseluruhan dalam draf NBA 2011. Sebagai pemain yang masuk NBA All-Star sebanyak enam kali, Irving terpilih dalam All-NBA Third Team pada tahun 2015. Ia memenangkan sebuah gelar NBA bersama Cavaliers pada tahun 2016.\n\n
+            Irving bermain basket pada tingkat perguruan tinggi untuk Duke Blue Devils sebelum bergabung dengan Cavaliers pada tahun 2011. Ia dinobatkan sebagai NBA All-Star Game Most Valuable Player pada tahun 2014. Pada babak Final NBA 2016, dia melakukan tembakan tiga poin dengan sisa waktu 53 detik pada Gim 7 yang sedang dalam kedudukan imbang untuk membantu membawa Cavaliers memenangkan gelar atas Golden State Warriors. Setelah kalah dalam pertandingan ulang melawan Warriors pada babak final tahun 2017, Irving meminta trade dan ditransfer ke Boston Celtics. Setelah menghabiskan dua tahun bersama Celtics, ia menandatangani kontrak dengan Brooklyn Nets sebagai pemain bebas agen pada tahun 2019. Namun, awal tahun 2023 ia meminta "trade" kembali dan ditransfer ke Dallas Mavericks. Ia juga bermain untuk tim nasional Amerika Serikat, yang dibantunya memenangkan emas pada pagelaran Piala Dunia Bola Basket FIBA 2014 dan Olimpiade Musim Panas 2016. Pada tahun 2018, Irving turut membintangi film Uncle Drew.</item>
+
+        <item>Giannis Sina Ugo Antetokounmpo (lahir Adétòkunbọ̀; 6 Desember 1994) adalah pemain bola basket profesional Yunani-Nigeria untuk Milwaukee Bucks dari National Basketball Association (NBA). Negara asal Antetokounmpo, selain ukuran, kecepatan, kekuatan, dan keterampilan penanganan bolanya membuatnya mendapat julukan "Greek Freak". Antetokounmpo secara luas dianggap sebagai salah satu penyerang berkekuatan terhebat dan salah satu pemain Eropa terhebat sepanjang masa.\n\n
+            Lahir dan besar di Athena dari orang tua Nigeria, Antetokounmpo mulai bermain bola basket untuk tim yunior Filathlitikos di Athena. Pada tahun 2011, ia mulai bermain untuk tim senior klub sebelum memasuki draft NBA 2013, di mana ia terpilih ke-15 secara keseluruhan oleh Bucks. Pada 2016-17 ia memimpin Bucks di lima kategori statistik utama dan menjadi pemain pertama dalam sejarah NBA yang menyelesaikan musim reguler di 20 besar dalam lima statistik total poin, rebound, assist, steal, dan blok. ] Ia menerima penghargaan Pemain Paling Berkembang pada tahun 2017. Antetokounmpo telah menerima tujuh pilihan All-Star, termasuk terpilih sebagai kapten All-Star pada tahun 2019, 2020 dan 2023 saat ia memimpin Wilayah Timur dalam pemungutan suara dalam tiga tahun tersebut.\n\n
+            Salah satu pemain paling berprestasi dalam sejarah NBA, Antetokounmpo memenangkan Penghargaan Pemain Paling Berharga NBA berturut-turut pada tahun 2019 dan 2020, bergabung dengan Kareem Abdul-Jabbar dan LeBron James sebagai satu-satunya pemain dalam sejarah NBA yang memenangkan dua MVP sebelum berusia 26 tahun. dengan penghargaan MVP-nya, ia juga dinobatkan sebagai Pemain Bertahan NBA Tahun Ini pada tahun 2020, menjadi pemain ketiga setelah Michael Jordan (1988) dan Hakeem Olajuwon (1994) yang memenangkan kedua penghargaan tersebut di musim yang sama. Pada tahun 2021, Antetokounmpo memimpin Bucks meraih kejuaraan NBA pertama mereka sejak tahun 1971 dan dinobatkan sebagai MVP Final. Pada tahun yang sama, ia dihormati sebagai salah satu pemain liga terhebat sepanjang masa dengan masuk dalam Tim HUT ke-75 NBA.\n\n
+            Film Rise yang diangkat dari kehidupan Antetokounmpo dan keluarganya dirilis pada tahun 2022.</item>
+
+        <item>Luka Dončić (/ˈdɒntʃɪtʃ/ DON-chich; bahasa Slovenia: [ˈlùːka ˈdòːntʃitʃ]; lahir 28 Februari 1999) adalah pemain bola basket profesional Slovenia untuk Dallas Mavericks dari National Basketball Association (NBA). Ia juga mewakili tim nasional Slovenia dan dianggap sebagai salah satu pemain terhebat Eropa sepanjang masa.\n\n
+            Dilahirkan di Ljubljana, Dončić bersinar sebagai pemain muda Union Olimpija sebelum bergabung dengan akademi muda Real Madrid. Pada tahun 2015 ia melakukan debut untuk tim senior akademi pada usia 16 tahun, menjadi pemain termuda dalam sejarah klub. Dia memimpin Madrid meraih gelar EuroLeague 2018, memenangkan MVP EuroLeague dan MVP Final Four. Dončić dinobatkan sebagai Pemain Paling Berharga ACB dan memenangkan penghargaan EuroLeague Rising Star dan Pemain Muda Terbaik ACB berturut-turut. Selain itu, ia terpilih menjadi anggota Tim Sepanjang Dekade EuroLeague 2010–2020.\n\n
+            Pada tahun 2018, Dončić mendeklarasikan draft NBA, di mana ia direkrut oleh Atlanta Hawks dan kemudian diperdagangkan ke Dallas Mavericks. Dia terpilih dengan suara bulat ke Tim Utama NBA All-Rookie dan memenangkan Rookie of the Year untuk musim 2018-19. Dalam empat musim berikutnya, ia terpilih dalam pertandingan NBA All-Star dan masuk dalam Tim Utama All-NBA. Dia adalah pemimpin franchise Mavericks dalam karir triple-double.\n\n
+            Dončić melakukan debut seniornya untuk Slovenia pada tahun 2016 pada usia 17 tahun. Dia kemudian membantu negaranya memenangkan gelar EuroBasket pertamanya pada tahun 2017 dan juga masuk dalam Tim Semua Turnamen.</item>
+
+        <item>Devin Armani Booker (lahir 30 Oktober 1996) adalah pemain bola basket profesional Amerika untuk Phoenix Suns dari National Basketball Association (NBA). Setelah bermain bola basket perguruan tinggi selama satu musim dengan Kentucky Wildcats, Booker dipilih oleh Suns di putaran pertama draft NBA 2015 dengan pilihan keseluruhan ke-13. Pada tahun 2017, pada usia 20 tahun, ia menjadi pemain termuda yang mencetak lebih dari 60 poin dalam satu pertandingan, diakhiri dengan 70 poin melawan Boston Celtics. Pada tahun 2019, pada usia 22 tahun, Booker menjadi pemain termuda dalam sejarah NBA dengan permainan 50 poin berturut-turut.\n\n
+            Putra dari mantan pemain bola basket Melvin Booker, Devin adalah All-Star tiga kali dan membantu Suns mencapai Final NBA pada tahun 2021. Musim berikutnya, ia masuk dalam Tim Utama All-NBA dan membantu memimpin tim. Suns mencatatkan rekor franchise 64 kemenangan. Booker juga meraih medali emas di tim Olimpiade AS 2020 di Tokyo.</item>
+
+        <item>Temetrius Jamel "Ja" Morant (/ˈdʒɑː məˈrænt/ JAH mə-RANT; lahir 10 Agustus 1999) adalah pemain bola basket profesional Amerika untuk Memphis Grizzlies dari National Basketball Association (NBA). Dia bermain bola basket perguruan tinggi untuk Murray State Racers, di mana dia menjadi tim utama All-American yang disepakati sebagai mahasiswa tahun kedua pada tahun 2019.\n\n
+            Morant hanya direkrut sedikit oleh program Divisi I NCAA dan tidak diberi peringkat oleh layanan perekrutan, meskipun telah dinobatkan sebagai Pemain Paling Berharga Seluruh Wilayah sebanyak tiga kali dan mendapatkan penghargaan All-State di Crestwood High School di Sumter, Carolina Selatan. Namun demikian, ia memberikan pengaruh langsung di Murray State University, mendapatkan penghargaan tim utama di semua konferensi di Ohio Valley Conference (OVC) sebagai mahasiswa baru. Dia mengalami musim kedua yang luar biasa; hal itu membuatnya memenangkan Pemain Terbaik OVC serta memimpin NCAA dalam hal assist. Sebagai mahasiswa tahun kedua, Morant menjadi pemain pertama dalam sejarah NCAA yang rata-rata mencetak 20 poin lebih dan 10 lebih assist per game dalam satu musim.\n\n
+            Morant dipilih oleh Grizzlies dengan pilihan keseluruhan kedua dalam draft NBA 2019, dan dinobatkan sebagai Rookie Terbaik NBA pada tahun 2020. Pada tahun 2022, ia ditunjuk untuk Game NBA All-Star pertamanya sebagai starter. Di akhir musim, Morant memenangkan Penghargaan Pemain Paling Berkembang NBA, dan dia juga terpilih menjadi Tim All-NBA pertamanya.</item>
+    </string-array>
+
+</resources>
